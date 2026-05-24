@@ -1,3 +1,3 @@
-# Dropper Releases
+# Colordrop Legacy Releases
 
-Public release artifacts and Sparkle appcast for Dropper.
+Legacy release repo kept empty after the Colordrop rename.
